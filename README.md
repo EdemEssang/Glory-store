@@ -42,3 +42,4 @@ Submit your HTML and CSS files.
 Include screenshots of the landing page on desktop and mobile devices.
 Provide a brief description of the design choices made during the development process.
 Use  comments in your code & make it clean
+[link to the desktop screenshot](https://github.com/EdemEssang/Glory-store/blob/main/FireShot%20Capture%20003%20-%20Glory-store%20-%20Your%20Online%20Shopping%20Destination%20-%20%5B127.0.0.1%5D.png)
